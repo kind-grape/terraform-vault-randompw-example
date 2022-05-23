@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export VAULT_ADDR="http://127.0.0.1:8200"
-export VAULT_TOKEN="s.hpjeGrOvFGIgcJWSF2Mv73vp"
+export VAULT_TOKEN="s.q2kL3QqIXXaI1be8uC9eexgs"
 
 
 # enable gcp secret engine 

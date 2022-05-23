@@ -1,4 +1,4 @@
-vault_token="s.hpjeGrOvFGIgcJWSF2Mv73vp"
+vault_token="s.q2kL3QqIXXaI1be8uC9eexgs"
 db_customer_code = "grc"
 db_env = "dev"
 db_instance_name = "instance1" 
